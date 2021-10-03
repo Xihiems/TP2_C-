@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.tp2.Android Xamarin.HotReload.DebuggerTimeoutException.tp2.Android.HideInfoBar="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
   <MonoDevelop.Ide.Workbench ActiveDocument="tp2/MainPage.xaml">
     <Files>
-      <File FileName="tp2/MainPage.xaml" Line="15" Column="81" />
-      <File FileName="tp2/MainPage.xaml.cs" Line="36" Column="67" />
+      <File FileName="tp2/MainPage.xaml" Line="11" Column="86" />
+      <File FileName="tp2/MainPage.xaml.cs" Line="67" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
