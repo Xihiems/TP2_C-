@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="tp2.MainPage">
+    <Grid RowDefinitions="0.1*,0.9*" >
+        <Grid Grid.Row="0">
+            <Label Margin="10" TextColor="Black" Grid.Row="0" Text="(De)Code Caesar " HorizontalOptions="Center" FontAttributes="Bold"></Label>
+        </Grid>
+    
+    <Grid Grid.Row="1" ColumnDefinitions="1*,1*" RowDefinitions="0.1*,1*,0.005*,0.20*" >
+        <Label  Grid.Row="0" TextColor="Black" Text="Write your message in the rigth box below : "></Label>
+        <Editor x:Name="InsertEditor" Grid.Row="1" Grid.Column="0" BackgroundColor="LightGray" Margin="5"></Editor>
+        <Editor x:Name="OutputEditor" Grid.Row="1" Grid.Column="1" BackgroundColor="LightGray" IsReadOnly="true" Margin="5"></Editor>
+        
+        
+        <CheckBox x:Name="checkbox" Grid.Row="3" Grid.Column="0" HorizontalOptions="StartAndExpand"/>
+        <Label Grid.Row="3" Grid.Column="0" Text=" To Decrypt" Margin ="26" HorizontalOptions="Center" />
+        <Button Clicked="Button_Click" Text="(De)code text !!!" Grid.Row="3" Grid.Column="1" HorizontalOptions="Center"/>
+
+        
+      
+    </Grid>
+    </Grid>
+
+</ContentPage>

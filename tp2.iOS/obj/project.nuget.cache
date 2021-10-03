@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmT4zZ/Px0cmcSedFmVnj3d2R6mZsqeNobfkKWcj8WIQxgtQ2HX5tIs6AyjjX+Hvu1lURBOP4gxh8jWLZs/vMg==",
+  "success": true,
+  "projectFilePath": "/Users/yannraymond58/Projects/tp2/tp2.iOS/tp2.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/yannraymond58/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/yannraymond58/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/yannraymond58/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

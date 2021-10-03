@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6D202B01-6ADE-48D1-BD1A-D0115A71316B}|Default">
+  <MonoDevelop.Ide.ItemProperties.tp2.Android Xamarin.HotReload.DebuggerTimeoutException.tp2.Android.HideInfoBar="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tp2/MainPage.xaml">
+    <Files>
+      <File FileName="tp2/MainPage.xaml" Line="15" Column="81" />
+      <File FileName="tp2/MainPage.xaml.cs" Line="36" Column="67" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tp2" expanded="True">
+            <Node name="tp2" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.tp2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

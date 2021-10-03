@@ -1,0 +1,15 @@
+/Users/yannraymond58/Projects/tp2/tp2/bin/Debug/netstandard2.0/tp2.deps.json
+/Users/yannraymond58/Projects/tp2/tp2/bin/Debug/netstandard2.0/tp2.dll
+/Users/yannraymond58/Projects/tp2/tp2/bin/Debug/netstandard2.0/ref/tp2.dll
+/Users/yannraymond58/Projects/tp2/tp2/bin/Debug/netstandard2.0/tp2.pdb
+/Users/yannraymond58/Projects/tp2/tp2/obj/Debug/netstandard2.0/tp2.csproj.AssemblyReference.cache
+/Users/yannraymond58/Projects/tp2/tp2/obj/Debug/netstandard2.0/tp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yannraymond58/Projects/tp2/tp2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/yannraymond58/Projects/tp2/tp2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/yannraymond58/Projects/tp2/tp2/obj/Debug/netstandard2.0/tp2.AssemblyInfoInputs.cache
+/Users/yannraymond58/Projects/tp2/tp2/obj/Debug/netstandard2.0/tp2.AssemblyInfo.cs
+/Users/yannraymond58/Projects/tp2/tp2/obj/Debug/netstandard2.0/tp2.csproj.CoreCompileInputs.cache
+/Users/yannraymond58/Projects/tp2/tp2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/yannraymond58/Projects/tp2/tp2/obj/Debug/netstandard2.0/tp2.dll
+/Users/yannraymond58/Projects/tp2/tp2/obj/Debug/netstandard2.0/ref/tp2.dll
+/Users/yannraymond58/Projects/tp2/tp2/obj/Debug/netstandard2.0/tp2.pdb
