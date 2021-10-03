@@ -6,6 +6,9 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
+//Yann Raymond
+//IT1
+
 namespace tp2
 {
     public partial class MainPage : ContentPage
